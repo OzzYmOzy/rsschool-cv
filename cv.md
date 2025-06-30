@@ -74,6 +74,5 @@ function getUniqueNumbers(arr) {
 - E-mail: tsoidan1321@icloud.com
 - Telegram: [@OzzYY_Tsoi](https://t.me/OzzYY_Tsoi "telegram")
 
-***
-<img src="./assets/img1532613761.png" width="100%" height="25px">
+<img src="./assets/img1532613761.png" width="100%" height="15px">
 
